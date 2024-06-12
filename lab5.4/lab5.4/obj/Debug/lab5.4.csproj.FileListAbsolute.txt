@@ -1,0 +1,11 @@
+D:\Desktop\lab\lab5.4\lab5.4\bin\Debug\lab5.4.exe.config
+D:\Desktop\lab\lab5.4\lab5.4\bin\Debug\lab5.4.exe
+D:\Desktop\lab\lab5.4\lab5.4\bin\Debug\lab5.4.pdb
+D:\Desktop\lab\lab5.4\lab5.4\obj\Debug\lab5.4.csproj.AssemblyReference.cache
+D:\Desktop\lab\lab5.4\lab5.4\obj\Debug\lab5._4.Form1.resources
+D:\Desktop\lab\lab5.4\lab5.4\obj\Debug\lab5._4.Form2.resources
+D:\Desktop\lab\lab5.4\lab5.4\obj\Debug\lab5._4.Properties.Resources.resources
+D:\Desktop\lab\lab5.4\lab5.4\obj\Debug\lab5.4.csproj.GenerateResource.cache
+D:\Desktop\lab\lab5.4\lab5.4\obj\Debug\lab5.4.csproj.CoreCompileInputs.cache
+D:\Desktop\lab\lab5.4\lab5.4\obj\Debug\lab5.4.exe
+D:\Desktop\lab\lab5.4\lab5.4\obj\Debug\lab5.4.pdb

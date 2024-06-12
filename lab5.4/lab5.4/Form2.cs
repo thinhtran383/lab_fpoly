@@ -1,0 +1,21 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace lab5._4
+{
+    public partial class Form2:Form
+    {
+        public Form2(string data)
+        {
+            InitializeComponent();
+            labelData.Text = data;
+        }
+    }
+}
