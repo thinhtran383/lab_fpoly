@@ -1,0 +1,7 @@
+D:\Desktop\lab4.5\lab4.5\bin\Debug\lab4.5.exe.config
+D:\Desktop\lab4.5\lab4.5\bin\Debug\lab4.5.exe
+D:\Desktop\lab4.5\lab4.5\bin\Debug\lab4.5.pdb
+D:\Desktop\lab4.5\lab4.5\obj\Debug\lab4.5.csprojAssemblyReference.cache
+D:\Desktop\lab4.5\lab4.5\obj\Debug\lab4.5.csproj.CoreCompileInputs.cache
+D:\Desktop\lab4.5\lab4.5\obj\Debug\lab4.5.exe
+D:\Desktop\lab4.5\lab4.5\obj\Debug\lab4.5.pdb
